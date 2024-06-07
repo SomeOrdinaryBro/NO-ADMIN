@@ -1,2 +1,3 @@
+@echo off
 set __COMPAT_LAYER=RunAsInvoker
-start #YOUT_APP_NAME_HERE
+start #YOUR_APP_NAME_HERE
