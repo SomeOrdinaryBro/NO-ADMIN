@@ -2,6 +2,8 @@
 
 NO-ADMIN is a collection of batch scripts designed to help users run programs on Windows systems without requiring administrative rights. These scripts provide a workaround by setting a compatibility layer to run applications with the permissions of the invoking user, thereby bypassing the need for administrative privileges.
 
+![Banner](./banner/NO-ADMIN.jpg)
+
 ## Contents:
 - `no-admin.bat`: Batch script for running programs without administrative rights.
 - `NSSM-NO-ADMIN.bat`: Batch script for installing services using NSSM (Non-Sucking Service Manager) without administrative privileges.
